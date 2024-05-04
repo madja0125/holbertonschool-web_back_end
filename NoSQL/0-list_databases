@@ -1,2 +1,2 @@
-// List all databases
+// list all databases in mon8odb
 show dbs
