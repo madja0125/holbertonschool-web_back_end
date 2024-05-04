@@ -5,7 +5,7 @@ import pymongo
 
 
 def get_nginx_logs_statistics():
-    """Retrieves and displays statistics about Nginx
+    """Retrieves and displays statistics about Nginx 
     logs stored in MongoDB"""
     client = pymongo.MongoClient("mongodb://localhost:27017/")
 
